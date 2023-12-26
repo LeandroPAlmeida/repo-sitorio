@@ -1,3 +1,3 @@
 # Repositörio Local
 
-Descrição inserida no repositório local antes do clone
+Descrição inserida no repositório local depois do clone
